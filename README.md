@@ -1,6 +1,6 @@
 ![Screenshot of the app](preview.png)
 
-[Live Demo](https://static.laszlokorte.de/nyquist/)
+[Live Demo](https://static.laszlokorte.de/nyquist/) | [Short demo video](https://www.youtube.com/watch?v=9udo3f1DNOc)
 
 # LTI System impulse response
 
